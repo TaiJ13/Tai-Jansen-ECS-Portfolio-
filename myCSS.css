@@ -11,17 +11,16 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: #A1EEFF;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
 	float: left;
 	width: 100%;
-	height: 80px;
-	
+	height: 60px;	
 }
 .nav {
-	background: #BBBBBB;
+	background: #55B5FA;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -30,15 +29,14 @@ body {
 	text-align: center;
 }
 .content {
-	background: #EEEEEE;
+	background: #FFFFFF;
 	margin: 0px;
 	float: left;
 	width: 100%;
-	height: 400px;
 	text-align: center;
 }
 .footer {
-	background: #777777;
+	background: #FAE0B9;
 	margin: 0px;
 	float: left;
 	width: 100%;
